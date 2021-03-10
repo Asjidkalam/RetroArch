@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp /home/odinshell/psp_rev/psp_chall/retroarch/main.c /usr/local/pspdev/projects/retroarch/main.c
+make EBOOT.PBP
